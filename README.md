@@ -1,4 +1,8 @@
 # ITMD510_VAITY
+Minal Vaity 
+CWID : A20445368
+
+Medical Students Study Application
 
 Medical school students have one of the toughest jobs around: learning how to prevent, diagnose, and treat illness in high-stakes  
 situations (sometimes even life or death). They need all the help they can get. Since memorization has traditionally been a huge part of 
