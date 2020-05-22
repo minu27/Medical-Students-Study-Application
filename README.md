@@ -1,4 +1,4 @@
-# ITMD510_VAITY
+# Medical Student Study Application
 Minal Vaity 
 CWID : A20445368
 
